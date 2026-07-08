@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
+
 <meta charset="UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>THP Championship</title>
 
 <link rel="stylesheet" href="css/style.css">
 
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;800&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
-
-<div class="bg"></div>
 
 <header class="header">
 
@@ -24,35 +27,71 @@
 
 </header>
 
-<div class="menu">
-
-<a href="admin.html" class="btn">
-🎮 ADMIN
-</a>
-
-<a href="leaderboard.html" class="btn">
-🏆 BẢNG XẾP HẠNG
-</a>
-
-<a href="rules.html" class="btn">
-📜 LUẬT GIẢI
-</a>
-
-</div>
-
 <section class="hero">
 
 <h2>SEASON 1</h2>
 
 <p>
+
 12 TEAMS • 4 MATCHES • LIVE SCORE
+
 </p>
+
+</section>
+
+<div class="menu">
+
+<a href="admin.html" class="btn">
+
+🎮 ADMIN PANEL
+
+</a>
+
+<a href="leaderboard.html" class="btn">
+
+🏆 LEADERBOARD
+
+</a>
+
+<a href="rules.html" class="btn">
+
+📜 RULES
+
+</a>
+
+</div>
+
+<section class="info">
+
+<div class="card">
+
+<h3>12 Teams</h3>
+
+<p>Thi đấu sinh tồn.</p>
+
+</div>
+
+<div class="card">
+
+<h3>4 Matches</h3>
+
+<p>Tính tổng điểm sau 4 trận.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Live Ranking</h3>
+
+<p>Cập nhật BXH theo thời gian thực.</p>
+
+</div>
 
 </section>
 
 <footer>
 
-© THP Championship 2026
+<p>© 2026 THP Championship</p>
 
 </footer>
 
