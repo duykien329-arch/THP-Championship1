@@ -78,7 +78,45 @@ THP
 </p>
 
 </section>
+<section class="tournament">
 
+<div class="card">
+
+<h2>🏆 THP CHAMPIONSHIP</h2>
+
+<p>12 Đội</p>
+
+<p>4 Trận Sinh Tồn</p>
+
+<p>Giải thưởng cập nhật</p>
+
+</div>
+
+<div class="card">
+
+<h2>🎮 MÙA GIẢI</h2>
+
+<p>Season 1</p>
+
+<p>Free Fire</p>
+
+<p>Live Leaderboard</p>
+
+</div>
+
+<div class="card">
+
+<h2>⚡ HỆ THỐNG</h2>
+
+<p>Tự tính điểm</p>
+
+<p>Live Ranking</p>
+
+<p>Realtime</p>
+
+</div>
+
+</section>
 <div class="menu">
 
 <a href="admin.html" class="btn">
