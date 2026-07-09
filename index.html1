@@ -166,7 +166,29 @@ THP
 </div>
 
 </section>
+<section class="stats">
 
+<div class="stat-box">
+<h2>12</h2>
+<p>TEAMS</p>
+</div>
+
+<div class="stat-box">
+<h2>4</h2>
+<p>MATCHES</p>
+</div>
+
+<div class="stat-box">
+<h2>48</h2>
+<p>TỔNG LƯỢT THI ĐẤU</p>
+</div>
+
+<div class="stat-box">
+<h2>LIVE</h2>
+<p>LEADERBOARD</p>
+</div>
+
+</section>
 <footer>
 
 <p>© 2026 THP Championship</p>
