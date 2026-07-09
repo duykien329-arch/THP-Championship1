@@ -16,7 +16,26 @@
 </head>
 
 <body>
+<section class="hero">
 
+<div class="overlay"></div>
+
+<div class="hero-content">
+
+<h1>THP CHAMPIONSHIP</h1>
+
+<p>FREE FIRE ESPORTS TOURNAMENT</p>
+
+<a href="leaderboard.html" class="btn">LIVE LEADERBOARD</a>
+
+<a href="admin.html" class="btn2">ADMIN PANEL</a>
+
+</div>
+
+<div class="glow glow1"></div>
+<div class="glow glow2"></div>
+
+</section>
 <header class="header">
 
 <img src="assets/logo.png" class="logo">
