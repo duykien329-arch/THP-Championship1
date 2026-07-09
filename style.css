@@ -246,3 +246,76 @@ to{
 transform:translateY(40px);
 }
 }
+.navbar{
+
+position:fixed;
+
+top:0;
+
+left:0;
+
+width:100%;
+
+padding:18px 50px;
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+background:rgba(10,10,20,.65);
+
+backdrop-filter:blur(15px);
+
+z-index:999;
+
+box-sizing:border-box;
+
+}
+
+.logo{
+
+font-size:34px;
+
+font-weight:900;
+
+color:#c77dff;
+
+text-shadow:0 0 20px #9333ea;
+
+}
+
+.navbar ul{
+
+display:flex;
+
+gap:35px;
+
+list-style:none;
+
+margin:0;
+
+padding:0;
+
+}
+
+.navbar a{
+
+color:white;
+
+text-decoration:none;
+
+font-size:18px;
+
+transition:.3s;
+
+}
+
+.navbar a:hover{
+
+color:#c77dff;
+
+text-shadow:0 0 15px #9333ea;
+
+}
