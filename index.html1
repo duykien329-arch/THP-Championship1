@@ -16,6 +16,27 @@
 </head>
 
 <body>
+<nav class="navbar">
+
+<div class="logo">
+THP
+</div>
+
+<ul>
+
+<li><a href="index.html">Trang chủ</a></li>
+
+<li><a href="leaderboard.html">BXH</a></li>
+
+<li><a href="schedule.html">Lịch đấu</a></li>
+
+<li><a href="rules.html">Luật</a></li>
+
+<li><a href="admin.html">Admin</a></li>
+
+</ul>
+
+</nav>
 <section class="hero">
 
 <div class="overlay"></div>
